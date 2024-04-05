@@ -15,9 +15,11 @@ education:
 first_name: Kasi C
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Kidney Disease
+- Stress & Resiliency in Hypertension
+- Medical Writing
+- Data Analysis
+- Efficacy in Curriculum Design
 last_name: McPherson
 name_pronunciation: Kasi C McPherson
 organizations:
