@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Syntax | Kasi C McPherson, M.S., Ph.D</title>
-    <link>http://localhost:6936/category/syntax/</link>
-      <atom:link href="http://localhost:6936/category/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/category/syntax/</link>
+      <atom:link href="http://localhost:4321/category/syntax/index.xml" rel="self" type="application/rss+xml" />
     <description>Syntax</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:6936/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Syntax</title>
-      <link>http://localhost:6936/category/syntax/</link>
+      <link>http://localhost:4321/category/syntax/</link>
     </image>
     
     <item>
       <title>Demo Page</title>
-      <link>http://localhost:6936/blog/markdown_syntax/</link>
+      <link>http://localhost:4321/blog/markdown_syntax/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6936/blog/markdown_syntax/</guid>
+      <guid>http://localhost:4321/blog/markdown_syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
 &lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h5&amp;gt;&lt;/code&gt; elements represent five levels of section headings.&lt;/p&gt;

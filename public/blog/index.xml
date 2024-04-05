@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>aafu theme | Kasi C McPherson, M.S., Ph.D</title>
-    <link>http://localhost:6936/blog/</link>
-      <atom:link href="http://localhost:6936/blog/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/blog/</link>
+      <atom:link href="http://localhost:4321/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>aafu theme</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:6936/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>aafu theme</title>
-      <link>http://localhost:6936/blog/</link>
+      <link>http://localhost:4321/blog/</link>
     </image>
     
     <item>
       <title>Demo Page</title>
-      <link>http://localhost:6936/blog/markdown_syntax/</link>
+      <link>http://localhost:4321/blog/markdown_syntax/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6936/blog/markdown_syntax/</guid>
+      <guid>http://localhost:4321/blog/markdown_syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
 &lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h5&amp;gt;&lt;/code&gt; elements represent five levels of section headings.&lt;/p&gt;
@@ -161,9 +161,9 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>http://localhost:6936/blog/2020-12-01-r-rmarkdown/</link>
+      <link>http://localhost:4321/blog/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:6936/blog/2020-12-01-r-rmarkdown/</guid>
+      <guid>http://localhost:4321/blog/2020-12-01-r-rmarkdown/</guid>
       <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
@@ -194,7 +194,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;init.angle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;border&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;http://localhost:6936/blog/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;http://localhost:4321/blog/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -202,9 +202,9 @@
     
     <item>
       <title>luctus enim ultricies auctor pulvinar nam etiam</title>
-      <link>http://localhost:6936/blog/post_3/</link>
+      <link>http://localhost:4321/blog/post_3/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6936/blog/post_3/</guid>
+      <guid>http://localhost:4321/blog/post_3/</guid>
       <description>&lt;h1 id=&#34;donec-lacinia-eleifend-sem-a&#34;&gt;donec lacinia eleifend sem a&lt;/h1&gt;
 &lt;p&gt;Pulvinar tempor ultrices amet praesent aliquet non magnis euismod elit venenatis. Aliqua consequat tristique erat nulla sit risus aliqua posuere. Potenti natoque augue proin accimsan risus scelerisque id integer curabitur mattis amet quisque. Aliquet porta sit sapien natoque sed fringilla, madssa suspendisse vivamus placerat sociis condimentum ridiculus. Natoque egestas non lectus pellentesque nunc mattis eu ridiculus pretium maecenas ligula. Gravida facilisis sem mollis sagittis aliquet ornare bibendum, leo nec morbi tortor diam maecenas tempor.&lt;/p&gt;
 &lt;p&gt;Natoque ipsum ac purus mi tempus facilisis suspendisse consectetur duis interdum. Potenti vel accimsan fringilla vestibulum neque odio, lacinia duis facilisi turpis consectetur sollicitudin eleifend. Netus posuere et aliquet mauris lacinia habitant lacus imperdiet. Mollis auctor facilisi commodo maecenas condimentum convallis, pretium in consequat velit vel ipsum posuere. Est mollis imperdiet proin vel iaculis aliquam lorem, nibh mattis magna commodo consequat convallis volutpat. Vel gravida purus sagittis nunc netus aliquam quis facilisi magnis.&lt;/p&gt;
