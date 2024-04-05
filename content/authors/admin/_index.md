@@ -3,27 +3,27 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-first_name: Shiung Wu
+  - course: Ph.D. in Medical Pharmacology
+    institution: University of Mississippi Medical Center
+    year: 2017
+  - course: M.S. in Medical Science
+    institution: Mississippi College
+    year: 2011
+  - course: B.S. in Biology + Chemistry Minor
+    institution: University of Louisiana at Monroe
+    year: 2010
+first_name: Kasi C
 highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Chien
+last_name: McPherson
 name_pronunciation: Chien Shiung Wu
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Undo Mindset
+  url: https://www.undomindset.com/
+role: Grant Writer
 skills:
 - items:
   - description: ""
@@ -76,10 +76,10 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kc-mcp
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/kasi-c-mcpherson-m-s-ph-d-a43636bb
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
