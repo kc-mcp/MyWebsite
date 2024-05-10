@@ -53,7 +53,7 @@ sections:
     date_format: Jan 2006
     items:
     - company: UnDo Mindset
-      company_logo: org-gc
+      company_logo: Undo
       company_url: "https://www.undomindset.com/"
       date_end: ""
       date_start: "2024-03-01"
