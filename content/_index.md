@@ -52,19 +52,21 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
+    - company: UnDo Mindset
       company_logo: org-gc
-      company_url: ""
+      company_url: "https://www.undomindset.com/"
       date_end: ""
-      date_start: "2021-01-01"
+      date_start: "2024-03-01"
       description: |2-
           Responsibilities include:
 
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
+          * Identifying and pursuing funding opportunities
+          * Crafting Federal & Private grant proposals
+          * Managing multiple grant applications
+          * Creating SOPs for the Funding Team
+          * Collaborating with the Data and Curriculum Design teams
+      location: Colorado (remote)
+      title: Grant Writer volunteer
     - company: University X
       company_logo: org-x
       company_url: ""
