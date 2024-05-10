@@ -108,7 +108,18 @@ sections:
           * Invited Adhoc Reviewer for Journal of Diabetes Research, Journal of BioMedicine and Pharmacology, & Journal of Hypertension
           * As a UAB Study section Meeting & Review Trainee, reviewed several fellowship applications for various scientific professional societies & government 
       location: Alabama
-      title: Postdoctoral Trainee & MERIT Fellow
+      title: Graduate Student Stipend
+      - company: University of Mississippi Medical Center
+        company_logo: org-gc
+        company_url: "https://www.ummc.edu/"
+        date_end: "2017-07-31"
+        date_start: "2012-08-01"
+        description: |2-
+          Responsibilities include:
+          *
+          *
+          *
+        location: Mississippi
     title: Experience
   design:
     columns: "2"
