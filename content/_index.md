@@ -67,14 +67,48 @@ sections:
           * Collaborating with the Data and Curriculum Design teams
       location: Colorado (remote)
       title: Grant Writer volunteer
-    - company: University X
+    - company: University of Alabama at Birmingham
       company_logo: org-x
-      company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
+      company_url: "https://www.uab.edu/"
+      date_end: "2024-12-31"
+      date_start: "2017-09-01"
+      description: |2-
+          Responsibilities as the BioMedical Resiliency-Curriculum Research Manager include:
+          * Conducted literature review for content development
+          * Lead Curriculum Developer
+          * Lead Learning Video Script Writer
+          * Lead Survey Developer for qualitative data collection
+          * Performed qualitative analysis
+          * Developed Internal Review Board-approved protocols
+          * Coordinated communication with teams across departments with different expertise
+          * Prepared & delivered work-in-progress presentations
+          * Prepared & delivered poster presentation at national conference
+          * Produced 1 first-author abstract
+          
+          Responsibilities as the Autosomal Dominant Polycystic Kidney Disease (ADPKD) Data Analyst include:
+          * Served as Kidney Disease subject matter expert for the team
+          * Conducted literature review for experimental design development
+          * Analyzed basic & clinical data using computational R packages 
+          * Compiled data analysis reports with Rmarkdown
+          * Prepared & delivered work-in-progress presentations
+          * Created & maintained SOPs for team manuscript submissions & using Wrike (a project management software)
+          * Editing team members' manuscript writing
+          * Produced 1 co-author publication
+          * On boarded & mentored trainees
+          
+          Responsibilities as the Early Life Stress (ELS) in Hypertension Research Manager include:
+          * Performed experiments using an ELS mouse model
+          * Analyzed basic & clinical data
+          * Obtained funding opportunities from private & federal agencies
+          * Prepared & delivered work-in-progress presentations
+          * Produced 3 first author abstracts, 3 co-author abstracts, & 1 co-author publication
+          * On boarded new trainees
+          
+          Peer Reviewer Experience include:
+          * Invited Adhoc Reviewer for Journal of Diabetes Research, Journal of BioMedicine and Pharmacology, & Journal of Hypertension
+          * As a UAB Study section Meeting & Review Trainee, reviewed several fellowship applications for various scientific professional societies & government 
+      location: Alabama
+      title: Postdoctoral Trainee & MERIT Fellow
     title: Experience
   design:
     columns: "2"
